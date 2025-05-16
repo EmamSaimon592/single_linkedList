@@ -115,3 +115,5 @@ int main(){
 
 	return 0;
 }
+
+// run this code for getting output 
