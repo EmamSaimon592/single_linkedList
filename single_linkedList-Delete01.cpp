@@ -1,4 +1,4 @@
-//Delete first Node...
+//Delete first Node...................
 #include <iostream>
 using namespace std;
 
@@ -59,3 +59,4 @@ int main() {
 // 20 -> 15 -> 10 -> 5 -> 1 -> NULL
 // Data elements in a single linked list are: 
 // 15 -> 10 -> 5 -> 1 -> NULL
+// the program is end
