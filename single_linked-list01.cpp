@@ -1,4 +1,4 @@
-//Emam Saimon
+
 //insert at the first position 
 #include <iostream>
 using namespace std;
@@ -36,3 +36,4 @@ int main() {
     print();  // Output: 10 -> 5 -> 1 -> NULL
     return 0;
 }
+
