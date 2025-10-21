@@ -1,3 +1,5 @@
+// start the code ............
+// step 01
 //insert at the end position 
 #include <iostream>
 using namespace std;
@@ -9,6 +11,7 @@ struct Node {
 
 Node* head = NULL;
 
+// step 02
 // Insert at the beginning
 void insert(int n) {
     Node* newNode = new Node;
@@ -17,6 +20,7 @@ void insert(int n) {
     head = newNode;
 }
 
+// step 03
 // Insert at the end
 void insertAtend(int n){
     Node* newNode = new Node;
@@ -50,6 +54,7 @@ void print() {
     cout << "NULL" << endl;
 }
 
+// step 04
 // Main function
 int main() {
     insert(1);
@@ -65,3 +70,4 @@ int main() {
 
     return 0;
 }
+
